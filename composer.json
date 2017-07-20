@@ -1,0 +1,22 @@
+{
+	"name" : "nih-fo/plugin-contacts",
+	"description" : "CakePHP Plugin: Manages contact info for the portals.",
+	"type" : "cakephp-plugin",
+	"keywords" : ["cakephp", "plugin", "contacts"],
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Brian French",
+			"role": "Developer"
+		},
+		{
+			"name": "Joshua Knust",
+			"role": "Manager"
+		} 
+	],
+	"require": {
+		"nih-fo/plugin-utilities": "1.*",
+		"nih-fo/plugin-snapshot": "1.*",
+		"nih-fo/plugin-tags": "1.*"
+	}
+}

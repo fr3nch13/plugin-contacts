@@ -1,0 +1,25 @@
+div.usage_stats {
+	padding: 5px;
+}
+div.usage_stats h3 {
+	font-size: 110%;
+}
+div.usage_stats ul {
+	border: 1px solid #eaeaea;
+	border-radius: 5px;
+}
+
+div.usage_stats ul li {
+	border-left: 1px solid #eaeaea;
+	margin: 0px;
+	margin-right: 0px !important;
+	padding: 5px;
+}
+div.usage_stats ul li:first {
+	border-left-width: 0px;
+}
+
+div.usage_stats ul li span.value {
+	font-size: 150% !important;
+	text-align: center;
+}
