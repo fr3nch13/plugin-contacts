@@ -3,7 +3,7 @@
 	"description" : "CakePHP Plugin: Manages contact info for the portals.",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "contacts"],
-	"license": "proprietary",
+	"license": "mit",
 	"authors": [
 		{
 			"name": "Brian French",
