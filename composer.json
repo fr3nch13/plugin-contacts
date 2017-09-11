@@ -1,5 +1,5 @@
 {
-	"name" : "nih-fo/plugin-contacts",
+	"name" : "fr3nch13/plugin-contacts",
 	"description" : "CakePHP Plugin: Manages contact info for the portals.",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "contacts"],
@@ -15,8 +15,8 @@
 		} 
 	],
 	"require": {
-		"nih-fo/plugin-utilities": "1.*",
-		"nih-fo/plugin-snapshot": "1.*",
-		"nih-fo/plugin-tags": "1.*"
+		"fr3nch13/plugin-utilities": "1.*",
+		"fr3nch13/plugin-snapshot": "1.*",
+		"fr3nch13/plugin-tags": "1.*"
 	}
 }
